@@ -1,6 +1,8 @@
 # Welcome to the open source codebase of codereview.orgfree.com
 This code is running live at [http://codereview.orgfree.com/](http://codereview.orgfree.com/).
 
+## File Structure
+
  	adapters 	- jquery.js (Used by ckeditor below)
 	ckeditor 	- Code highlighter for the editors used in forreview.php and historyshow.php
 	css 		- Bootstrap.css
@@ -39,6 +41,11 @@ Description of the how all the pages are linked to each other.
 
 Description of the database (CR_DB) structure in detail.
 ![CR_DB database structure](CR_DB.png)
+
+## Setup required to test changes/contributions locally
+1. Download and install ![WampServer](http://www.wampserver.com/en/)
+2. Setup 'CR_DB' database using phpmyadmin which comes with wampServer using the CR_DB database diagram shown above in this readme.
+3. Now to see the website locally in action go to the wampServer running port on your browser eg. http://localhost:8080/socialsearch/index.php
 
 ## Contribution
 
