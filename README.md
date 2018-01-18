@@ -22,8 +22,8 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 	logout.php 	- Small code when user logs out by clicking on log out button (Available after sign-in).
 	profile.php 	- Profile page (Available once you sign-in) with code for getting codeforces rating using Curl. 
 	register.php 	- Register page and code to verify codeforces user using Curl.
-	reviewbutton.php 	- Code run when a user slects a correct answer on reviewcheck.php page.
-	reviewcheck.php 	- When a user clicks on a question he asked (on profile page), he comes here.
+	reviewbutton.php - Code run when a user slects a correct answer on reviewcheck.php page.
+	reviewcheck.php - When a user clicks on a question he asked (on profile page), he comes here.
 	sitemap.xml 	- Sitemap
 	stats.php 	- Stats page (Available once you sign-in)
 	styles.css 	- Small CSS code for buttons in header navbar
