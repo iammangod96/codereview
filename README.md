@@ -69,18 +69,19 @@ Description of the database (CR_DB) structure in detail.
 4. Removal of redundant code![Advanced](https://img.shields.io/badge/Advanced--blue.svg)
 5. Better code highlighter (ckeditor doesn't works on code snippet)![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
 6. Better user profile page![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
-7. User messaging![Advanced](https://img.shields.io/badge/Advanced--blue.svg)
+7. User messaging (public and private)![Advanced](https://img.shields.io/badge/Advanced--blue.svg)
 8. Reduce site loading time![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
 9. Reduce the number of external css/js files used in header![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
 10. Externalize the inline CSS.![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
 11. Externalize the inline JS.![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
 12. Externalize the inline PHP.	![Advanced](https://img.shields.io/badge/Advanced--blue.svg)
-13. Way to include users from other coding platforms (Currenlty limited to codeforce)![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
-14. Publicise this CodeReview platform on social media
+13. Tagging System for problems.  ![Advanced](https://img.shields.io/badge/Advanced--blue.svg)
+14. Way to include users from other coding platforms (Currenlty limited to codeforce)![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
+15. Publicise this CodeReview platform on social media
 ![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
-15. Get a better domain.![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
-16. Better UI/UX.![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
-17. Updation of this list.
+16. Get a better domain.![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
+17. Better UI/UX.![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
+18. Updation of this list.
 ![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
 
 
