@@ -13,7 +13,7 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 	forgotpass.php 	- Simple form asking for email and the password is sent on that email upon submission.
 	forreview.php 	- Page on which the user submits his solution to the problem asked.
 	functions.php 	- Useful functions used throughout the codebase (PHP to SQL, Strings, Curl requests).
-	google0ebb62ff7cfe67cb.html 	- Google site verification.
+	google0ebb62ff7cfe67cb.html - Google site verification.
 	header.php 	- Common header code for the website with meta, links (CSS, JS) and navbar.
 	history.php 	- History page showing list of previous questions asked by the user.
 	historyshow.php - When a user selects a question from his history, the problem and the correct solution is shown.
@@ -29,13 +29,15 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 	styles.css 	- Small CSS code for buttons in header navbar
 	submitcode.php 	- When user submits his problem/question.
 
-## Database
-
-Description of the database structure in detail. (coming soon)
 
 ## Website pages linkage
 
 Description of the how all the pages are linked to each other. (coming soon)
+
+## Database
+
+Description of the database (CR_DB) structure in detail.
+![CR_DB database structure](CR_DB.png)
 
 ## Contribution
 
