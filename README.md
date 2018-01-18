@@ -31,7 +31,11 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 
 ## Database
 
+Description of the database structure in detail. (coming soon)
+
 ## Website pages linkage
+
+Description of the how all the pages are linked to each other. (coming soon)
 
 ## Contribution
 
