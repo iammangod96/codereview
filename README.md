@@ -35,7 +35,11 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 
 ## Contribution
 
-* - Basic, ** - Intermidiate, *** - Advanced
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
+![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
+![Intermidiate](https://img.shields.io/badge/Intermidiate--yellow.svg)
+![Advanced](https://img.shields.io/badge/Advanced--blue.svg)
+
 
 1. Liquid layout							**
 2. More statistics on stats page					*
