@@ -32,7 +32,8 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 
 ## Website pages linkage
 
-Description of the how all the pages are linked to each other. (coming soon)
+Description of the how all the pages are linked to each other.
+![CodeReview page linkage](CR_linkage.png)
 
 ## Database
 
