@@ -42,7 +42,8 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 
 
 1. Liquid layout							**
-2. More statistics on stats page					*
+2. More statistics on stats page
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
 3. Rewriting about page							*
 4. Removal of redundant code						***
 5. Better code highlighter (ckeditor doesn't works on code snippet)	**
@@ -54,9 +55,11 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 11. Externalize the inline JS.						**
 12. Externalize the inline PHP.						***
 13. Way to include users from other coding platforms (Currenlty limited to codeforce)	**
-14. Publicise this CodeReview platform on social media			*
+14. Publicise this CodeReview platform on social media
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
 15. Get a better domain.						*
 16. Better UI/UX.							**
-17. Updation of this list.						*
+17. Updation of this list.
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
 This list is endless...
 
