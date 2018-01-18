@@ -43,23 +43,25 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 
 1. Liquid layout							**
 2. More statistics on stats page
-![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
-3. Rewriting about page							*
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
+3. Rewriting about page![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
 4. Removal of redundant code						***
 5. Better code highlighter (ckeditor doesn't works on code snippet)	**
-6. Better user profile page						*
+6. Better user profile page![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
 7. User messaging							***
 8. Reduce site loading time						**
 9. Reduce the number of external css/js files used in header		**
-10. Externalize the inline CSS.						*
+10. Externalize the inline CSS.![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
 11. Externalize the inline JS.						**
 12. Externalize the inline PHP.						***
 13. Way to include users from other coding platforms (Currenlty limited to codeforce)	**
 14. Publicise this CodeReview platform on social media
-![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
-15. Get a better domain.						*
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
+15. Get a better domain.![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
 16. Better UI/UX.							**
 17. Updation of this list.
-![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)
+![First-Timers](https://img.shields.io/badge/First%20timers--ff69b4.svg)![Basic](https://img.shields.io/badge/Basic--brightgreen.svg)
+
+
 This list is endless...
 
