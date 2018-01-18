@@ -27,7 +27,7 @@ This code is running live at [http://codereview.orgfree.com/](http://codereview.
 	sitemap.xml 	- Sitemap
 	stats.php 	- Stats page (Available once you sign-in)
 	styles.css 	- Small CSS code for buttons in header navbar
-	submitcode.php 	- When user submits his solution to an asked question.
+	submitcode.php 	- When user submits his problem/question.
 
 ## Database
 
