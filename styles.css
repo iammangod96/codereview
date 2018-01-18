@@ -1,0 +1,11 @@
+.button1:hover{
+  font-weight: bold;
+}
+.button2:hover{
+  font-weight: bold;
+}
+
+.clickable:hover{
+  border-top: 2px solid #169874;
+  border-bottom: 2px solid #169874;
+}
